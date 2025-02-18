@@ -1,0 +1,6 @@
+%%writefile requirements.txt
+streamlit
+encryption
+numpy
+rembg
+Pillow
